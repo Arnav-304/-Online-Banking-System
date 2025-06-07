@@ -1,0 +1,10 @@
+OnlineBankingSystem/
+├── src/
+│   ├── Main.java
+│   ├── Account.java
+│   ├── BankOperations.java
+│   └── DBConnection.java
+├── database/
+│   └── banking_db.accdb (optional for MS Access)
+├── README.md
+└── .gitignore
